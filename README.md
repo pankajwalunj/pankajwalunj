@@ -6,17 +6,27 @@ I’m a passionate learner currently pursuing the **Data Science & Machine Learn
 My goal is to master data-driven problem solving— from cleaning and analyzing data to building real-world predictive models.  
 
 ### 📂 Featured Projects  
-- 🛒 **Retail Sales Analysis using SQL + Python**  
-  Analyzed Superstore dataset to identify key sales drivers and visualize performance by region and category.  
-  🔗 [View Project](https://github.com/yourusername/Retail-Sales-Analysis)
+- 🛒 **Excel-Analytics**  🔗 [https://github.com/pankajwalunj/excel-analytics-portfolio.git](https://github.com/pankajwalunj/excel-analytics-portfolio)
 
-- 🎬 **Netflix Titles Data Exploration (EDA Project)**  
-  Explored Netflix content trends by genre, country, and release year.  
-  🔗 [View Project](https://github.com/yourusername/Netflix-Data-Analysis)
+  A curated collection of Excel-only data analysis projects focused on cleaning data, building dashboards, applying formulas, and generating actionable business insights.
+  -  Traffic Safety Analysis
+  -  Manufacture Downtime Analysis
+  -  Coffee Shop Sale Analysis
 
-- 💰 **Loan Data Cleaning Challenge (Kaggle)**  
-  Cleaned and preprocessed real-world financial data for further ML modeling.  
-  🔗 [View Project](https://github.com/yourusername/Loan-Data-Cleaning)
+- 🛒 **Python-Analytics**  
+  Python projects
+  🔗 
+
+- 🛒 **PowerBi & Tableau Projects**  
+  - PowerBi Projects
+  🔗
+  - Tableau Projects
+  🔗 
+
+- 🛒 **SQL Analysis**  
+  SQL analysis
+  🔗 
+
 
 ### 🧰 Tech Stack  
 Python • SQL • Pandas • Numpy • Matplotlib • Seaborn • Jupyter Notebook
