@@ -7,25 +7,25 @@ My goal is to master data-driven problem solving— from cleaning and analyzing 
 
 ### 📂 Featured Projects  
 - 🛒 **Excel-Analytics**  🔗 [https://github.com/pankajwalunj/excel-analytics-portfolio.git](https://github.com/pankajwalunj/excel-analytics-portfolio)
-
-  A curated collection of Excel-only data analysis projects focused on cleaning data, building dashboards, applying formulas, and generating actionable business insights.
   -  Traffic Safety Analysis
   -  Manufacture Downtime Analysis
   -  Coffee Shop Sale Analysis
 
-- 🛒 **Python-Analytics**  
-  Python projects
-  🔗 
-
+- 🛒 **Python-Analytics**  🔗 [https://github.com/pankajwalunj/python-portfolio.git](https://githb.com/pankajwalunj/python-portfolio)
+   
 - 🛒 **PowerBi & Tableau Projects**  
-  - PowerBi Projects
-  🔗
-  - Tableau Projects
-  🔗 
+  - PowerBi Projects  🔗 [https://github.com/pankajwalunj/PowerBi-portfolio.git](https://githb.com/pankajwalunj/PowerBi-portfolio)
+    - Air Loyalty Program
+    - Toy Store Data
+      
+  - Tableau Projects  🔗 [https://github.com/pankajwalunj/tableau-portfolio.git](https://githb.com/pankajwalunj/tableau-portfolio)
+    - Crossfit Games
+    - Supply Chain Shipping Analysis 
 
-- 🛒 **SQL Analysis**  
-  SQL analysis
-  🔗 
+- 🛒 **SQL Analysis**  🔗 [https://github.com/pankajwalunj/sql-portfolio.git](https://githb.com/pankajwalunj/sql-portfolio)
+    - Food Delivery
+    - Sales Performance Analysis   
+   
 
 
 ### 🧰 Tech Stack  
